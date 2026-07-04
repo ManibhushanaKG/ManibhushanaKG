@@ -1,160 +1,236 @@
 <h1 align="center">Hi 👋, I'm Manibhushana KG</h1>
-<h3 align="center">Computer Science Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Engineering Student • Software Engineer • Full Stack Developer • AI Developer
+</h3>
 
 <p align="center">
   <a href="https://github.com/ManibhushanaKG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Intern+Aspirant;Java+%7C+Python+%7C+JavaScript;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Software+Engineering+Intern+Aspirant;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+React+%7C+Next.js;Building+Scalable+Applications;Always+Learning+Something+New!" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://manibhushana.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-manibhushana.vercel.app-7C3AED?style=for-the-badge" />
+  </a>
+
+  <a href="https://linkedin.com/in/manibhushana">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ManibhushanaKG">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 **B.E. Computer Science Engineering**  
-📍 Bangalore Institute of Technology, Bengaluru  
+🎓 **B.E. Computer Science Engineering**
+
+🏫 Bangalore Institute of Technology, Bengaluru
+
 📈 **CGPA: 8.92 / 10**
 
-💡 Passionate about building scalable software, full-stack applications, and machine learning solutions.
+💡 Passionate about Software Engineering, Backend Development, Full Stack Development and Artificial Intelligence.
 
-- 🌱 Currently learning **Spring Boot, React, DevOps & Cloud**
-- 💻 Interested in **Software Engineering, Backend Development and AI/ML**
-- 🚀 Building practical projects to solve real-world problems
+- 🌱 Currently learning **Spring Boot, React, DevOps, Cloud & System Design**
+- 💻 Strong interest in **Backend Development, AI and Scalable Systems**
+- 🚀 Building production-quality full stack applications
 - 🎯 Looking for **Software Engineering Internship opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Portfolio
 
-### 💻 Languages
+### 🔗 Live Portfolio
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![C](https://skillicons.dev/icons?i=c)
+**https://manibhushana.vercel.app**
 
-### 🌐 Frontend
+My portfolio showcases:
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-
-### ⚙️ Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Django](https://skillicons.dev/icons?i=django)
-![Flask](https://skillicons.dev/icons?i=flask)
-
-### 🗄️ Databases
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**Oracle SQL**
-
-### ☁️ Tools & Platforms
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
-![Linux](https://skillicons.dev/icons?i=linux)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Maven](https://skillicons.dev/icons?i=maven)
+- Professional experience
+- Technical skills
+- Featured projects
+- Resume
+- Contact information
+- Live project demos
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🏛️ Community Complaint & Issue Mapping System
-- Real-time complaint reporting
-- Image uploads
-- Geolocation support
-- MongoDB + REST APIs
+## Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
+</p>
 
-### 🤖 AI Communication Platform
-- Speech-to-Text
-- Text-to-Speech
-- Language Translation
-- Flask + Machine Learning
+## Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
 
-### 📦 Inventory Management System
-- Django
-- MySQL
-- CRUD Operations
-- Inventory Dashboard
+## Backend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask"/>
+</p>
 
-### ✈️ Flight Management System
-- Java
-- OOP
-- Collections Framework
-- Optimized searching and sorting
+## Databases
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-### 📈 House Price Prediction
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
+- Oracle SQL
+- PostgreSQL
 
----
+## Tools & Platforms
 
-## 📚 Currently Learning
-
-- Spring Boot
-- React
-- Advanced Java
-- DevOps
-- AWS
-- System Design
-- Data Structures & Algorithms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ManibhushanaKG&theme=tokyonight"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,aws,maven,jenkins"/>
 </p>
 
 ---
 
-## 🏆 Certifications
+# 🚀 Featured Projects
 
-- Google Cloud Computing Foundations
-- Infosys Springboard – Data Structures & Algorithms using Java
-- Python Essentials (PCEP)
-- JP Morgan Chase – Software Engineering Job Simulation
-- Google Cloud – Generative AI Series
+## 🤖 ClubSphere AI
+
+AI-powered club discovery and community assistant built using Next.js and Gemini AI.
+
+### Tech
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Gemini API
 
 ---
 
-## 🤝 Connect with Me
+## ✈️ Flight Management System
+
+A complete Flight Management System built using Java and PostgreSQL.
+
+### Features
+
+- User Authentication
+- Flight Booking
+- Flight Cancellation
+- Admin Dashboard
+- PostgreSQL Database
+
+### Live Demo
+
+https://flightmanager-mk97.onrender.com/
+
+---
+
+## 🏛 Citizen Complaint Portal
+
+A full-stack complaint management platform for citizens.
+
+### Features
+
+- Secure Login
+- Complaint Tracking
+- Image Upload
+- Location-based Complaint Reporting
+
+### Tech
+
+- Flask
+- Oracle SQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📦 Inventory Management System
+
+Inventory management application built using Django.
+
+### Features
+
+- CRUD Operations
+- Inventory Dashboard
+- Product Management
+- Customer Management
+
+---
+
+# 📚 Currently Learning
+
+- Spring Boot
+- React
+- Next.js
+- DevOps
+- AWS
+- System Design
+- Advanced DSA
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ManibhushanaKG&show_icons=true&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManibhushanaKG&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManibhushanaKG&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Certifications
+
+- Google Cloud Computing Foundations
+- Google Cloud Generative AI Series
+- Infosys Springboard – Data Structures & Algorithms using Java
+- Python Essentials (PCEP)
+- JP Morgan Chase – Software Engineering Job Simulation
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
+
+<a href="https://manibhushana.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
 <a href="https://linkedin.com/in/manibhushana">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:manibhushana2241@gmail.com">
+<a href="mailto:manibhushanakg@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/ManibhushanaKG">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+
 </p>
