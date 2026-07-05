@@ -115,7 +115,7 @@
 - DevOps
 - AWS
 - System Design
-- Data Structures & Algorithms
+- Data Structure & Algorithms
 
 ---
 
