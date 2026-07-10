@@ -78,7 +78,7 @@
 ### 🤖 AI Communication Platform
 - Speech-to-Text
 - Text-to-Speech
-- Language Translation
+- Language Translation 
 - Flask + Machine Learning
 
 ---
