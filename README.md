@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 🎓 **B.E. Computer Science Engineering**  
-📍 Bangalore Institute of Technology, Bengaluru 
+📍 Bangalore Institute of Technology, Bengaluru
 📈 **CGPA: 8.92 / 10**
 
 💡 Passionate about building scalable software, full-stack applications, and machine learning solutions.
